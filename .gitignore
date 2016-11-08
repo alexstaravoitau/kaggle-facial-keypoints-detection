@@ -1,5 +1,5 @@
 .ipynb_checkpoints
+*.ckpt
+*.ckpt.meta
 /data
-/saved_models
-/models
 /udacity_convolutions.ipynb
