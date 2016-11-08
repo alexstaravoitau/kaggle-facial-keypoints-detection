@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 /data
 /saved_models
+/models
 /udacity_convolutions.ipynb
