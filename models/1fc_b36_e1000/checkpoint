@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/single_hidden_layer_model/model.ckpt"
-all_model_checkpoint_paths: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/single_hidden_layer_model/model.ckpt"
+model_checkpoint_path: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/1fc_b36_e1001/model.ckpt"
+all_model_checkpoint_paths: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/1fc_b36_e1001/model.ckpt"
