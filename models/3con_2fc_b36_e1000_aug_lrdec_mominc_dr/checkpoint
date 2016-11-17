@@ -1,2 +1,0 @@
-model_checkpoint_path: "/home/ubuntu/ML/kaggle/facial-keypoints-detection/models/3con_2fc_b36_e1000_aug_lrdec_mominc_dr/model.ckpt"
-all_model_checkpoint_paths: "/home/ubuntu/ML/kaggle/facial-keypoints-detection/models/3con_2fc_b36_e1000_aug_lrdec_mominc_dr/model.ckpt"

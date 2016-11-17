@@ -1,2 +1,0 @@
-model_checkpoint_path: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/specialists/spec_mouth_corner_top/model.ckpt"
-all_model_checkpoint_paths: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/specialists/spec_mouth_corner_top/model.ckpt"
