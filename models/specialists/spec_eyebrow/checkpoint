@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/specialists/spec_eyebrow/model.ckpt"
-all_model_checkpoint_paths: "/Users/alex/ML/kaggle/facial-keypoints-detection/models/specialists/spec_eyebrow/model.ckpt"
+model_checkpoint_path: "/home/ubuntu/ML/kaggle/facial-keypoints-detection/models/specialists/spec_eyebrow/model.ckpt"
+all_model_checkpoint_paths: "/home/ubuntu/ML/kaggle/facial-keypoints-detection/models/specialists/spec_eyebrow/model.ckpt"
