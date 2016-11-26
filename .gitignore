@@ -6,3 +6,4 @@ early_stopping_checkpoint
 early_stopping_checkpoint.meta
 /data
 /udacity_convolutions.ipynb
+/models
