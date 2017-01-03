@@ -1,9 +1,12 @@
 .ipynb_checkpoints
 *.ckpt
 *.ckpt.meta
+*.index
+*.data-00000-of-00001
 checkpoint
 early_stopping_checkpoint
 early_stopping_checkpoint.meta
 /data
 /udacity_convolutions.ipynb
 /models
+/logs
